@@ -1,0 +1,11 @@
+C:\Users\aleks\source\repos\KawiarniaZamowienia\KawiarniaZamowienia\bin\Debug\KawiarniaZamowienia.exe.config
+C:\Users\aleks\source\repos\KawiarniaZamowienia\KawiarniaZamowienia\bin\Debug\KawiarniaZamowienia.exe
+C:\Users\aleks\source\repos\KawiarniaZamowienia\KawiarniaZamowienia\bin\Debug\KawiarniaZamowienia.pdb
+C:\Users\aleks\source\repos\KawiarniaZamowienia\KawiarniaZamowienia\obj\Debug\KawiarniaZamowienia.csprojAssemblyReference.cache
+C:\Users\aleks\source\repos\KawiarniaZamowienia\KawiarniaZamowienia\obj\Debug\KawiarniaZamowienia.Form1.resources
+C:\Users\aleks\source\repos\KawiarniaZamowienia\KawiarniaZamowienia\obj\Debug\KawiarniaZamowienia.Properties.Resources.resources
+C:\Users\aleks\source\repos\KawiarniaZamowienia\KawiarniaZamowienia\obj\Debug\KawiarniaZamowienia.csproj.GenerateResource.cache
+C:\Users\aleks\source\repos\KawiarniaZamowienia\KawiarniaZamowienia\obj\Debug\KawiarniaZamowienia.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\KawiarniaZamowienia\KawiarniaZamowienia\obj\Debug\KawiarniaZamowienia.exe
+C:\Users\aleks\source\repos\KawiarniaZamowienia\KawiarniaZamowienia\obj\Debug\KawiarniaZamowienia.pdb
+C:\Users\aleks\source\repos\KawiarniaZamowienia\KawiarniaZamowienia\obj\Debug\KawiarniaZamowienia.OProgramie.resources
